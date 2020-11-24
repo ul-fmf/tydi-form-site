@@ -1,0 +1,23 @@
+# Site navigation links
+
+- title: Conference
+  url: /
+#  excerpt: General information about the CSL 2021 conference
+
+- title: Accepted Papers
+  url: /accepted-papers/
+
+- title: Schedule
+  url: /schedule/
+
+- title: Committees
+  url: /committees/
+
+- title: Call for papers
+  url: /call-for-papers/
+
+# - title: Registration
+#   url: /registration/
+
+# - title: Local information
+#   url: /local/
