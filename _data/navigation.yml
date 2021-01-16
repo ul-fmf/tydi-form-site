@@ -1,20 +1,17 @@
 # Site navigation links
 
-- title: Conference
+- title: TydiForm
   url: /
 #  excerpt: General information about the CSL 2021 conference
 
-- title: Accepted Papers
-  url: /accepted-papers/
+- title: People
+  url: /people/
 
-- title: Schedule
-  url: /schedule/
+- title: Resources
+  url: /resources/
 
-- title: Committees
-  url: /committees/
-
-- title: Call for papers
-  url: /call-for-papers/
+- title: Activities
+  url: /activities/
 
 # - title: Registration
 #   url: /registration/
