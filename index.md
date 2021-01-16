@@ -4,14 +4,48 @@ permalink: /
 title: TydiForm
 ---
 
-## About the project
+## Project information
 
 * Title: "Type Theory for Data-Intensive Formalization" (TydiForm)
 * Funding: Air Force Office of Scientific Research (AFOSR)
 * Project number: FA9550-21-1-0024
 * Project duration: 5 years (november 2020 -- october 2025)
+* Host: [Faculty of mathematics and physics](https://www.fmf.uni-lj.si/si/), University of Ljubljana
 
-## Project description
+
+## Project members
+
+* [Andrej Bauer](http://www.andrej.com/), principal investigator
+* [Matija Pretnar](http://matija.pretnar.info/), researcher
+* [Katja Berčič](http://katja.not.si), researcher
+* [Egbert Rijke](https://www.fmf.uni-lj.si/si/imenik/51874/), researcher
+* [Anja Petković](https://anjapetkovic.com), PhD student
+
+
+## Resources
+
+* [Eff programming language](https://www.eff-lang.org)
+* [Andromeda proof assistant](https://www.andromeda-prover.org)
+* [HoTT library](https://github.com/HoTT/HoTT)
+
+
+## Activities
+
+### Upcoming events
+
+* January 25-28, 2021: we are organizing [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si)
+
+### Past activities
+
+
+## Papers & talks
+
+* Some talk somewhere
+
+* Another paper published
+
+
+## About the project
 
 (Copied from the project proposal, must be edited.)
 
