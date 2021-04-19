@@ -40,3 +40,14 @@ body {
     color: $color-body;
     font-family: $base-font;
   }
+
+// TydiForm plain links
+  a{
+    color: $color-primary;
+  }
+  a:visited{
+    color: $color-secondary;
+  }
+  a:hover{
+    color: $color-secondary-dark;
+  }
