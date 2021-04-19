@@ -18,17 +18,24 @@ p, ul, ol{
 }
 
 h2{
+    font-size: 1.6rem;
     margin-bottom: 0px;
 }
 
 h3{
-    font-size: 1.4rem;
+    color: $color-secondary-dark;
+    font-size: 1.3rem;
+    font-style: italic;
 }
 h4{
-    font-size: 1.3rem;
+    font-weight: bold;
+    font-family: $base-font;
+    font-size: 1.2rem;
 }
 h5{
-    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: $base-font;
+    font-size: 1.1rem;
 }
 
 p{
@@ -41,7 +48,7 @@ body {
     font-family: $base-font;
   }
 
-// TydiForm plain links
+// TydiForm customizations
   a{
     color: $color-primary;
   }
@@ -50,4 +57,7 @@ body {
   }
   a:hover{
     color: $color-secondary-dark;
+  }
+  em{
+      color: $color-primary;
   }

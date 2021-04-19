@@ -13,7 +13,9 @@ header{
             text-decoration: none;
         }
         h1{
-            margin-bottom: 0px;
+            max-width: 12ch;
+            margin: 10px auto;
+            border-bottom: 0.15em solid $color-primary;
         }
         h2{
             font-family: $base-font;

@@ -7,7 +7,7 @@ layout: page
 
 ## Project information
 
-* Title: "Type Theory for Data-Intensive Formalization" (TydiForm)
+* Title: _Type Theory for Data-Intensive Formalization_ (TydiForm)
 * Funding: Air Force Office of Scientific Research (AFOSR)
 * Project number: FA9550-21-1-0024
 * Project duration: 5 years (november 2020 -- october 2025)
@@ -34,9 +34,11 @@ layout: page
 
 ### Upcoming events
 
-* January 25-28, 2021: we are organizing [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si)
+
 
 ### Past activities
+
+* January 25-28, 2021: [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si)
 
 
 ## Papers & talks
