@@ -1,0 +1,59 @@
+@import 'variables';
+
+h1, h2, h3, h4, h5, h6{
+    font-family: $header-font;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: $color-primary;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
+
+p, ul, ol{
+    li{
+      font-size: 1.15rem;
+    }
+}
+
+h2{
+    font-size: 1.6rem;
+    margin-top: 3rem;
+    margin-bottom: 0px;
+}
+
+h3{
+    color: $color-secondary-dark;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+h4{
+    font-weight: bold;
+    font-family: $base-font;
+    font-size: 1.15rem;
+}
+
+p{
+    font-size: 1.15rem;
+}
+
+//System stack for everything
+body {
+    color: $color-body;
+    font-family: $base-font;
+  }
+
+// TydiForm customizations
+  a{
+    color: $color-primary;
+  }
+  a:visited{
+    color: $color-secondary;
+  }
+  a:hover{
+    color: $color-secondary-dark;
+  }
+  em{
+      color: $color-primary;
+  }

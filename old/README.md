@@ -1,10 +1,3 @@
-
-### YAMT theme
-
-Theme overrides are in `_data`, `_includes`, `_sass`.
-
-# Old README content below
-
 ### Organization and web pages for the CSL 2021 conference
 
 These are the web pages for the CSL 2021 conference. The website is currently at [https://andrejbauer.github.io/computer-science-logic-2021/](https://andrejbauer.github.io/computer-science-logic-2021/), but we plan to move it to `http://csl2021.fmf.uni-lj.si/` once it is ready for public consumption.

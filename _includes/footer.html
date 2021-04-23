@@ -1,15 +1,13 @@
-<footer role="contentinfo" id="site-footer">
-	<nav role="navigation" class="menu bottom-menu">
-		<ul class="menu-item">
-		{% for link in site.data.footer %}
-      {% if link.url contains 'http' %}
-        {% assign domain = '' %}
-        {% else %}
-        {% assign domain = site.url %}
-      {% endif %}
-			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		{% endfor %}
-		</ul>
-	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
+<footer class= "footer">
+    <div id="logos">
+        <img src="images/fmf.jpg" 
+             alt="logo of Faculty of mathematics and physics, University of Ljubljana"
+             style="height: 2rem; width: auto;"
+        />
+        <img src="images/afosr-logo.jpg" 
+             alt="Air Force Office of Scientific Research logo"
+             style="height: 3rem; width: auto;"
+        />
+    </div>
+    <p>Copyright © {{ 'now' | date: "%Y" }} {{site.author.name}}. All rights reserved. Based on the <a href="https://github.com/PandaSekh/Jekyll-YAMT">YAMT</a> theme designed by <a href="https://alessiofranceschi.me/">Alessio Franceschi</a>.</p>
 </footer>
