@@ -29,7 +29,7 @@ locale: en
 url: https://andrejbauer.github.io/tydi-form-site/
 
 # Build settings
-theme: jekyll-yamt
+# theme: jekyll-yamt
 plugins:
   - jekyll-feed
 
