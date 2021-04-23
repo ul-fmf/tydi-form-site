@@ -26,7 +26,7 @@ owner:
 description: Type Theory for Data-Intensive Formalization
 baseurl: "" # the subpath of your site, e.g. /blog
 locale: en
-url: https://ul-fmf.github.io/tydi-form-site/
+url: https://tydiform.fmf.uni-lj.si
 
 # Build settings
 # theme: jekyll-yamt
