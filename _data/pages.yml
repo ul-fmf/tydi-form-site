@@ -1,0 +1,5 @@
+pages:
+  - {name: 'Members', url: 'members.html'}
+  - {name: 'Activities', url: 'activities.html'}
+  - {name: 'Software', url: 'software.html'}
+  - {name: 'Publications', url: 'publications.html'}
