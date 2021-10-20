@@ -12,13 +12,22 @@ layout: page
 : Andrej Bauer and Anja Petković Komel attended the first Management Committee Meeting of the European Research Network on Formal Proofs COST network. They are the Slovenian representatives in the Management Committee. Anja Petković Komel has been elected the gender-balance coordinator.
 
 18–23 July 2021 – [Scalable Handling of Effects](https://www.dagstuhl.de/21292), Dagstuhl Seminar 21292
-: Danel Ahman was one of the organizers of an on-line Dagstuhl seminar on computational effects and handlers.
+: Danel Ahman was one of the organizers of an on-line Dagstuhl seminar on computational effects and handlers. Andrej Bauer and Matija Pretnar participated in the seminar.
 
-20–26 June 2021 – “**The dawn of formalized mathematics**”, invited talk at the [8th European Congress of Mathematics](https://8ecm.si)
-: Andrej Bauer delivered an invited talk at the 8th European Congress of Mathematics ([abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90)).
+17–18 July 2021 – Anja Petković Komel, “[Towards an Elaboration Theorem](https://hott-uf.github.io/2021/petkovic-komel.txt)”, invited talk, [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2021/)
+: &nbsp;
+
+20–26 June 2021 – Andrej Bauer, “[The dawn of formalized mathematics](https://www.youtube.com/watch?v=Z500sma3h90)”, invited talk, [8th European Congress of Mathematics](https://8ecm.si)
+: [abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90)
 
 12–16 April 2021 – [Spring School on Homotopy Type Theory](https://epit2020cnrs.inria.fr), Ecole de Printemps d'Informatique Théorique, France
 : Andrej Bauer and Egbert Rijke lectured at the EPIT summer school on Homotopy Type Theory.
+
+14–18 June 2021 – Andrej Bauer and Philipp G. Haselwarter, “[Type theories without contexts](https://types21.liacs.nl/download/type-theories-without-contexts/)”, contributed talk, [27th International Conference on Types for Proofs and Programs](https://types21.liacs.nl) (TYPES 2021)
+: &nbsp;
+
+14–18 June 2021 – Andrej Bauer and Anja Petković, “[Equality checking for dependent type theories](https://types21.liacs.nl/download/equality-checking-for-dependent-type-theories/)”, [27th International Conference on Types for Proofs and Programs](https://types21.liacs.nl) (TYPES 2021)
+: &nbsp;
 
 25–28 January 2021 – [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si), University of Ljubljana.
 : Danel Ahman, Andrej Bauer, Katja Berčič, and Anja Petković Komel were members of the organizing team of CSL 2021 on-line conference.
