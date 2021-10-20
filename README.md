@@ -1,13 +1,7 @@
 
-### YAMT theme
+# TyDiForm web site
 
-Theme overrides are in `_data`, `_includes`, `_sass`.
-
-# Old README content below
-
-### Organization and web pages for the CSL 2021 conference
-
-These are the web pages for the CSL 2021 conference. The website is currently at [https://andrejbauer.github.io/computer-science-logic-2021/](https://andrejbauer.github.io/computer-science-logic-2021/), but we plan to move it to `http://csl2021.fmf.uni-lj.si/` once it is ready for public consumption.
+The TyDiForm web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [https://tydiform.fmf.uni-lj.si](https://tydiform.fmf.uni-lj.si).
 
 ### How to edit the web page content
 
@@ -20,17 +14,17 @@ The website always shows the contents of the `master` branch of the GitHub repos
 3. `git status` to see what files you changed
 4. `git add XYZ.md` for every file you changed and you wish to commit
 5. `git push`
-6. Go to the conference web page, make sure to reload the page.
+6. Go to the [project web page](https://tydiform.fmf.uni-lj.si), make sure to reload the page.
 
 The `.md` files are Markdown files, here is a [quick Markdown reference](https://guides.github.com/features/mastering-markdown/).
 
 Page source files:
 
-* [`index.md`](./index.md) -- main conference page
-* [`committees.md`](./committees.md) -- program and organisation committees
-* [`call-for-papers.md`](./call-for-papers.md) -- call for papers
-* [`registration.md`](./registration.md) -- registration information
-* [`local.md`](./local.md) -- local information
+* [`index.md`](./index.md) -- main project page
+* [`members.md`](./members.md) -- project members
+* [`activities.md`](./activities.md) -- a timeline of project activities
+* [`software.md`](./software.md) -- software and formalization libraries
+* [`publications.md`](./publications.md) -- archive of all publications
 
 ### How to generate the web page locally
 
@@ -53,13 +47,3 @@ Then to generate and serve the pages locally, run
     bundle exec jekyll serve
 
 The pages will appear at [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
-
-#### Troubleshooting on MacOS
-
-On MacOS one of the libraries is causing problems. If `bundle install` fails and complains that it cannot install `nokogiri`, run these:
-
-    sudo gem install pkg-config
-    sudo gem install nokogiri -v '1.8.5' --source 'https://rubygems.org/' -- --use-system-libraries
-
-Then run `bundle install` again.
-
