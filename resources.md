@@ -11,76 +11,99 @@ formalization libraries, and databases of mathematical structures.
 
 ### Andromeda
 
-* [Andromeda proof assistant](https://www.andromeda-prover.org)
+Andromeda is an experimental proof assistant that support user-definable type theories, designed in the tradition of LCF proof assistants. It is currently maintained by Andrej Bauer, [Philipp Haselwater](https://haselwarter.org), and Anja Petković.
+
+* <i class="fas fa-home"></i> [www.andromeda-prover](https://www.andromeda-prover.org)
+* <i class="fab fa-github"></i> [github.com/Andromedans/andromeda](https://github.com/Andromedans/andromeda)
+* <i class="fas fa-sm fa-scroll"></i> “[Design and Implementation of the Andromeda Proof Assistant](https://arxiv.org/abs/1802.06217v1)”
+{: .icon-links}
 
 ### HoTT library
 
-* [HoTT library](https://github.com/HoTT/HoTT)
+The HoTT library is a formalization of homotopy type theory in the Coq proof assistant. It is one of the largest and oldest formalizations of its kind. It was initiated by Andrej Bauer, and is currently maintained by an international team of researchers.
+
+* <i class="fab fa-github"></i> [github.com/HoTT/HoTT](https://github.com/HoTT/HoTT)
+* <i class="fas fa-sm fa-scroll"></i> “[The HoTT Library: A formalization of homotopy type theory in Coq](https://arxiv.org/abs/1610.04591)”
+{: .icon-links}
 
 
 ### HoTT-Intro
 
-https://github.com/EgbertRijke/HoTT-Intro
+Egbert Rijke formalized a large proportion of his upcoming textbook on homotopy type theory in the Agda proof assistant.
+The library contains several different areas of mathematics, ranging from foundations of type theory and discrete
+mathematics, to synthetic homotopy theory.
+
+* <i class="fab fa-github"></i> [github.com/EgbertRijke/HoTT-Intro](https://github.com/EgbertRijke/HoTT-Intro)
+{: .icon-links}
 
 ### General type theories
 
-https://github.com/peterlefanulumsdaine/general-type-theories
+A formalization of general type theories and fundamental meta-theorems about them, developed by [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com), Andrej Bauer, and [Philipp Haselwarter](https://haselwarter.org).
+
+* <i class="fab fa-github"></i> [github.com/peterlefanulumsdaine/general-type-theories](https://github.com/peterlefanulumsdaine/general-type-theories)
+* <i class="fas fa-sm fa-scroll"></i> “[A general definition of dependent type theories](https://arxiv.org/abs/2009.05539)”
+{: .icon-links}
 
 
 ## Programming languages
 
 ### Eff
 
-Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar langauges and incorporation of algebraifc effects and handlers into other languages and libraries.
+Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar langauges and incorporation of algebraifc effects and handlers into other languages and libraries. It was originally created by Andrej Bauer and Matija Pretnar.
 
-<i class="fas fa-home"></i> [`www.eff-lang.org`](https://www.eff-lang.org)<br>
-<i class="fab fa-github"></i> [`matijapretnar/eff`](https://github.com/matijapretnar/eff)<br>
-<i class="fas fa-sm fa-scroll"></i> Andrej Bauer and Matija Pretnar, [Programming with algebraic effects and handlers](https://doi.org/10.1016/j.jlamp.2014.02.001), J. Log. Algebraic Methods Program. 84(1): 108-123 (2015)
-con-links}
+* <i class="fas fa-home"></i> [`www.eff-lang.org`](https://www.eff-lang.org)<br>
+* <i class="fab fa-github"></i> [`github.com/matijapretnar/eff`](https://github.com/matijapretnar/eff)<br>
+* <i class="fas fa-sm fa-scroll"></i> “[Programming with algebraic effects and handlers](https://doi.org/10.1016/j.jlamp.2014.02.001)”
+{: .icon-links}
 
 
 ### Æff
 
-Æff is an experimental programming language for programming with *asynchronous* algebraic effects. It was developed by Danel Ahman and Matija Pretnar.
+Æff is an experimental programming language for programming with asynchronous algebraic effects. It was created by Danel Ahman and Matija Pretnar.
 
-* Source: [`https://github.com/matijapretnar/aeff`](https://github.com/matijapretnar/aeff)
-* Publication: Danel Ahman and Matija Pretnar, [Asynchronous effects](https://doi.org/10.1145/3434305), Proc. ACM Program. Lang. 5(POPL): 1-28 (2021)
+* <i class="fab fa-github"></i> [`github.com/matijapretnar/aeff`](https://github.com/matijapretnar/aeff)
+* <i class="fas fa-sm fa-scroll"></i> “[Asynchronous effects](https://doi.org/10.1145/3434305)”
+{: .icon-links}
 
 ### Coop
 
-Coop is a prototype programming language for programming with runners, also known as comodels. It supports modular and extensible management of computational resources, with strong guarantee of proper finalization. It was developed by Danel Ahman and Andrej Bauer.
+Coop is a prototype programming language for programming with runners, also known as comodels. It supports modular and extensible management of computational resources, with strong guarantee of proper finalization. It was created by Danel Ahman and Andrej Bauer.
 
-* Source: [`https://github.com/andrejbauer/coop`](https://github.com/andrejbauer/coop) (the language)
-* Source: [`https://github.com/danelahman/haskell-coop`](https://github.com/danelahman/haskell-coop) (a Haskell library)
-* Publication: Danel Ahman and Andrej Bauer, [Runners in Action](https://doi.org/10.1007/978-3-030-44914-8_2), ESOP 2020: 29-55
-* Talk: Danel Ahman, [Interacting with external resources using runners (aka comodels)](https://danel.ahman.ee/talks/chocola19.pdf), CHoCoLa meeting, Lyon, October 2019
+* <i class="fab fa-github"></i> [`github.com/andrejbauer/coop`](https://github.com/andrejbauer/coop)
+* <i class="fab fa-github"></i> [`github.com/danelahman/haskell-coop`](https://github.com/danelahman/haskell-coop)
+* <i class="fas fa-sm fa-scroll"></i> “[Runners in Action](https://doi.org/10.1007/978-3-030-44914-8_2)”
+{: .icon-links}
 
 ### Millet
 
-Millet is an experimental pure ML-like language with simple and modular codebase, intended as a template for experimentation and implementation with new programming language features. It was developed by Matija Pretnar.
+Millet is an experimental pure ML-like language with simple and modular codebase, intended as a template for experimentation and implementation with new programming language features. It was created by Matija Pretnar.
 
-* Source: [`https://github.com/matijapretnar/millet`](https://github.com/matijapretnar/millet)
+* <i class="fab fa-github"></i> [`github.com/matijapretnar/millet`](https://github.com/matijapretnar/millet)
+{: .icon.list }
 
 
 
 ## Databases of mathematical structures
 
-### Discrete Zoo
-
-A central repository of discrete objects with a website front-end and extensions for software packages like Sage. The DiscreteZOO project is the predecessor of MathDataHub.
-
-* Website: [`https://discretezoo.xyz`](https://discretezoo.xyz)
-* Source: [`https://github.com/DiscreteZOO`](https://github.com/DiscreteZOO)
-
 ### MathDataHub
 
-MathDataHub started within the successful European Research Infrastructure project [OpenDreamKit](https://opendreamkit.org/). It provides dataset hosting and a searchable interface for the hosted datasets. It is part of MathHub, a portal for active mathematical documents and an archive for flexiformal mathematics. It is developed at the Research Group of the Professorship for Knowledge Representation and Processing at FAU Erlangen-Nürnberg (department of Computer Science), also known as KWARC, with collaborators from the Department of Mathematics and Physics at the University of Ljubljana. People currently involved are Katja Berčič, Michael Kohlhase, Florian Rabe, and Tom Wiesing.
+MathDataHub provides dataset hosting and a searchable interface for databases of mathematical structures. It is part of MathHub, a portal  for active mathematical documents and an archive for flexiformal mathematics. The database is maintained by the [KWARZ research group](https://kwarc.info) from the University Friedrich-Alexander University in Erlangen-Nürenberg, in cooperation with Katja Berčič.
 
-* Website: [`https://data.mathhub.info`](https://data.mathhub.info)
-* Source: [`https://github.com/MathHubInfo/mhd`](https://github.com/MathHubInfo/mhd)
+* <i class="fas fa-home"></i> [`data.mathhub.info`](https://data.mathhub.info)
+* <i class="fab fa-github"></i> [`github.com/MathHubInfo/mhd`](https://github.com/MathHubInfo/mhd)
+{: .icon-links}
+
+### Discrete Zoo
+
+A central repository of discrete objects with a website front-end and extensions for mathematical software packages, maintained by Katja Berčič and Janoš Vidali.
+
+* <i class="fas fa-home"></i> [`discretezoo.xyz`](https://discretezoo.xyz)
+* <i class="fab fa-github"></i> [`github.com/DiscreteZOO`](https://github.com/DiscreteZOO)
+{: .icon-links}
 
 ### Catalogoue of Mathematical Datasets
 
-A curated list of collections of databases of mathematical structures.
+A list of databases of mathematical structures, curated by Katja Berčič.
 
-* Website: [`https://mathdb.mathhub.info`](https://mathdb.mathhub.info)
+* <i class="fas fa-home"></i> [`mathdb.mathhub.info`](https://mathdb.mathhub.info)
+{: .icon-links}

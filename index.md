@@ -11,7 +11,7 @@ Project information:
 
 * Title: _Type Theory for Data-Intensive Formalization_ (TydiForm)
 * Funding: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) (AFOSR)
-* Program manager: dr. Tristan Nguyen (AFOSR)
+* Program manager: Dr. Tristan Nguyen (AFOSR)
 * Principal investigator: prof. dr. [Andrej Bauer](http://www.andrej.com/)
 * Project number: FA9550-21-1-0024
 * Duration: 5 years (november 2020 -- october 2025)
