@@ -31,7 +31,7 @@ https://github.com/peterlefanulumsdaine/general-type-theories
 
 ### Eff
 
-Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar langauges and incorporation of algebraifc effects and handlers into other programming languages and programming libraries.
+Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar langauges and incorporation of algebraifc effects and handlers into other languages and libraries.
 
 * Website: [`https://www.eff-lang.org`](https://www.eff-lang.org)
 * Source: [`https://github.com/matijapretnar/eff`](https://github.com/matijapretnar/eff)
@@ -40,7 +40,7 @@ Eff is the first programming language with first-class algebraic effect and hand
 
 ### Æff
 
-Æff is an experimental programming language for programming wiht *asynchronous* algebraic effects. It was developed by Danel Ahman and Matija Pretnar.
+Æff is an experimental programming language for programming with *asynchronous* algebraic effects. It was developed by Danel Ahman and Matija Pretnar.
 
 * Source: [`https://github.com/matijapretnar/aeff`](https://github.com/matijapretnar/aeff)
 * Publication: Danel Ahman and Matija Pretnar, [Asynchronous effects](https://doi.org/10.1145/3434305), Proc. ACM Program. Lang. 5(POPL): 1-28 (2021)
