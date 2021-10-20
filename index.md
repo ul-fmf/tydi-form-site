@@ -5,15 +5,17 @@ title: TyDiForm
 
 # About the project
 
-TydiForm focuses on designing and implementing new techniques for formal verification of mathematics with the aim of improving the capabilities of proof assistants. In the project, we will build on the natural synergy between formalized mathematics and databases of mathematical structures, develop domain-specific type theories and type systems for programming languages.
+TydiForm focuses on designing and implementing new techniques for formal verification of mathematics with the aim of improving the capabilities of proof assistants. In the project, we will build on the synergy between formalized mathematics and databases of mathematical structures, develop domain-specific type theories and type systems for programming languages.
 
 Project information:
 
 * Title: _Type Theory for Data-Intensive Formalization_ (TydiForm)
-* Funding: Air Force Office of Scientific Research (AFOSR)
+* Funding: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) (AFOSR)
+* Program manager: dr. Tristan Nguyen (AFOSR)
+* Principal investigator: prof. dr. [Andrej Bauer](http://www.andrej.com/)
 * Project number: FA9550-21-1-0024
-* Project duration: 5 years (november 2020 -- october 2025)
-* Host: [Faculty of mathematics and physics](https://www.fmf.uni-lj.si/si/), University of Ljubljana
+* Duration: 5 years (november 2020 -- october 2025)
+* Host institution: [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/si/) – University of Ljubljana
 
 ## Formalized mathematics and databases of mathematical structures
 

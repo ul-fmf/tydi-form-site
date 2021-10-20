@@ -13,9 +13,23 @@ formalization libraries, and databases of mathematical structures.
 
 * [Eff programming language](https://www.eff-lang.org)
 
+https://github.com/matijapretnar/eff
+
 ### Æff
 
+GitHub: https://github.com/matijapretnar/aeff
+Live: https://matija.pretnar.info/aeff/
+
+### Millet
+
+https://github.com/matijapretnar/millet
+https://matija.pretnar.info/millet/
+
 ### Coop
+
+https://github.com/andrejbauer/coop
+https://github.com/danelahman/haskell-coop
+
 
 ## Formalized mathematics
 
@@ -27,9 +41,16 @@ formalization libraries, and databases of mathematical structures.
 
 * [HoTT library](https://github.com/HoTT/HoTT)
 
+
+### HoTT-Intro
+
+https://github.com/EgbertRijke/HoTT-Intro
+
 ### General type theories
 
 https://github.com/peterlefanulumsdaine/general-type-theories
+
+
 
 ## Databases of mathematical structures
 
