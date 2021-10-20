@@ -75,7 +75,6 @@ ul.icon-links li.item-website::before {
     padding: 0 10px 0 0;
 }
 dl.activities-list dt{
-  font-style: oblique;
   font-size: 1.05rem;
 }
 dl.activities-list dt a{
@@ -84,5 +83,5 @@ dl.activities-list dt a{
 }
 dl.activities-list dd{
   margin: 0.5rem 0 2rem 0;
-  margin-inline-start: 0;
+  margin-inline-start: 2rem;
 }
