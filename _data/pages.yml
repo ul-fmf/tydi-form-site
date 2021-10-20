@@ -1,5 +1,6 @@
 pages:
-  - {name: 'Members', url: 'members.html'}
-  - {name: 'Activities', url: 'activities.html'}
-  - {name: 'Resources', url: 'resources.html'}
-  - {name: 'Publications', url: 'publications.html'}
+  - {name: 'Home', url: '/'}
+  - {name: 'Members', url: '/members.html'}
+  - {name: 'Activities', url: '/activities.html'}
+  - {name: 'Resources', url: '/resources.html'}
+  - {name: 'Publications', url: '/publications.html'}
