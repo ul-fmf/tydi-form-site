@@ -23,8 +23,8 @@ Page source files:
 * [`index.md`](./index.md) -- main project page
 * [`members.md`](./members.md) -- project members
 * [`activities.md`](./activities.md) -- a timeline of project activities
-* [`software.md`](./software.md) -- software and formalization libraries
-* [`publications.md`](./publications.md) -- archive of all publications
+* [`resources.md`](./resources.md) -- software and formalization libraries
+* [`publications.md`](./publications.md) -- project-related publications
 
 ### How to generate the web page locally
 

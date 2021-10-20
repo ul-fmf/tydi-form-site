@@ -18,31 +18,12 @@ layout: page
 * Host: [Faculty of mathematics and physics](https://www.fmf.uni-lj.si/si/), University of Ljubljana
 
 
-## Project members
-
-* [Andrej Bauer](http://www.andrej.com/), principal investigator
-* [Matija Pretnar](http://matija.pretnar.info/), researcher
-* [Katja Berčič](http://katja.not.si), researcher
-* [Egbert Rijke](https://www.fmf.uni-lj.si/si/imenik/51874/), researcher
-* [Anja Petković](https://anjapetkovic.com), PhD student
-
-
 ## Resources
 
 * [Eff programming language](https://www.eff-lang.org)
 * [Andromeda proof assistant](https://www.andromeda-prover.org)
 * [HoTT library](https://github.com/HoTT/HoTT)
 
-
-## Activities
-
-### Upcoming events
-
-* TBA
-
-### Past activities
-
-* January 25-28, 2021: [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si)
 
 ## About the project
 
