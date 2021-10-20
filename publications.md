@@ -10,6 +10,7 @@ layout: page
 
 * Andrej Bauer, Anja Petković: [An extensible equality checking algorithm for dependent type theories](https://arxiv.org/abs/2103.07397). CoRR abs/2103.07397 (2021), preprint.
 
+* Andrej Bauer: [Instance reducibility and Weihrauch degrees](https://arxiv.org/abs/2106.01734), CoRR abs/2106.01734, preprint.
 
 ## 2020
 
