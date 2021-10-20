@@ -6,7 +6,7 @@ layout: page
 
 
 13 October 2021: [Andrej Bauer receives 2022 Conant Prize](https://www.ams.org/news?news_id=6827)
-: Andrej Bauer has receivef the 2022 AMS Levi L. Conant Prize for the article “[Five stages of accepting constructive mathematics](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/)”, Bulletin of the AMS, 54 (2017), 481-498. The Levi L. Conant Prize recognizes the best expository paper published in either the Notices of the AMS or the Bulletin of the AMS in the preceding five years.
+: Andrej Bauer has received the 2022 AMS Levi L. Conant Prize for the article “[Five stages of accepting constructive mathematics](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/)”, Bulletin of the AMS, 54 (2017), 481-498. The Levi L. Conant Prize recognizes the best expository paper published in either the Notices of the AMS or the Bulletin of the AMS in the preceding five years.
 
 11-12 October 2021: [COST action CA20111: European Research Network on Formal Proofs](https://europroofnet.github.io)
 : Andrej Bauer and Anja Petković Komel attended the first Management Committee Meeting of the European Research Network on Formal Proofs COST network. They are the Slovenian representatives in the Management Committee. Anja Petković Komel has been elected the gender-balance coordinator.
@@ -16,6 +16,7 @@ layout: page
 
 25–28 January 2021: [Computer Science Logic (CSL 2021)](https://csl2021.fmf.uni-lj.si), University of Ljubljana.
 : Danel Ahman, Andrej Bauer, Katja Berčič, and Anja Petković Komel were members of the organizing team of CSL 2021 on-line conference.
+{: .activities-list}
 
 ## Upcoming
 
