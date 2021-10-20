@@ -15,7 +15,7 @@ layout: page
 : Danel Ahman was one of the organizers of an on-line Dagstuhl seminar on computational effects and handlers. Andrej Bauer and Matija Pretnar participated in the seminar.
 
 17–18 July 2021 – Anja Petković Komel, “[Towards an Elaboration Theorem](https://www.youtube.com/watch?v=yHjmPJuTvWM)”, invited talk, [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2021/)
-: [https://hott-uf.github.io/2021/petkovic-komel.txt](abstract), [slides](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Petkovic-2020-06-18-HoTTEST.pdf), [video](https://www.youtube.com/watch?v=yHjmPJuTvWM)
+: [abstract](https://hott-uf.github.io/2021/petkovic-komel.txt), [slides](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Petkovic-2020-06-18-HoTTEST.pdf), [video](https://www.youtube.com/watch?v=yHjmPJuTvWM)
 
 20–26 June 2021 – Andrej Bauer, “[The dawn of formalized mathematics](https://www.youtube.com/watch?v=Z500sma3h90)”, invited talk, [8th European Congress of Mathematics](https://8ecm.si)
 : [abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90)
