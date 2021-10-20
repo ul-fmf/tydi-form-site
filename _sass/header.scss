@@ -31,6 +31,10 @@ header{
             .pages{
                 display: block;
                 text-align: center;
+                li{
+                    display: inline-block;
+                    list-style-type: none;
+                }
                 a:hover{
                     color: black;
                 }
@@ -39,6 +43,10 @@ header{
                     color: $base; 
                     margin: 3px 0.5rem;
                     font-size: 1.05rem;
+                }
+                .active a{
+                    color: black;
+                    text-decoration: underline;
                 }
             }
             .social{
