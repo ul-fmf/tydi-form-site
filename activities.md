@@ -11,6 +11,9 @@ layout: page
 11-12 October 2021 – [COST action CA20111: European Research Network on Formal Proofs](https://europroofnet.github.io)
 : Andrej Bauer and Anja Petković Komel attended the first Management Committee Meeting of the European Research Network on Formal Proofs COST network. They are the Slovenian representatives in the Management Committee. Anja Petković Komel has been elected the gender-balance coordinator.
 
+22 August 2021 – Danel Ahman, Matija Pretnar, and Janez Radešček, “[Higher-Order Asynchronous Effects](https://danel.ahman.ee/papers/hope21.pdf)”, contributed talk, [Higher-Order Programming with Effects](https://icfp21.sigplan.org/home/hope-2021)  (HOPE 2021).
+
+
 18–23 July 2021 – [Scalable Handling of Effects](https://www.dagstuhl.de/21292), Dagstuhl Seminar 21292
 : Danel Ahman was one of the organizers of an on-line Dagstuhl seminar on computational effects and handlers. Andrej Bauer and Matija Pretnar participated in the seminar.
 
