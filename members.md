@@ -20,9 +20,13 @@ Matija Pretnar is an assistant professor of computational mathematics at the Fac
 
 ## [Danel Ahman](https://danel.ahman.ee) (researcher)
 
-## [Katja Berčič](http://katja.not.si) (researcher)
+## Katja Berčič (researcher)
 
 Katja Berčič is a postdoc and a teaching assistant at the Faculty of mathematics and Physics, Universtity of Ljubljana. While working on her PhD in mathematics, she became interested in how to improve the way mathematicians work with data. She followed this interest during a postdoc at the National Autonomous University of Mexico and a postdoc at the Research Group of the Professorship for Knowledge Representation and Processing at FAU Erlangen-Nürnberg (also known as KWARC). Her research interests lie in the areas of knowledge representation and management, particularly for mathematics.
+
+* <i class="fas fa-home"></i> <a href="http://katja.not.si">katja.not.si</a>
+* <i class="fab fa-github"></i> <a href="https://github.com/katjabercic">katjabercic</a>
+{: .test-contact }
 
 ## [Egbert Rijke](https://www.fmf.uni-lj.si/si/imenik/51874/) (researcher)
 
