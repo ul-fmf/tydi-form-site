@@ -1,6 +1,6 @@
 @import 'variables';
 
-h1, h2, h3, h4, h5, h6{
+h1, h2{ //, h3, h4, h5, h6
     font-family: $header-font;
     margin-bottom: 10px;
     text-decoration: none;
@@ -17,21 +17,25 @@ p, ul, ol{
     }
 }
 
+h1{
+  margin-top: 3rem;
+}
+
 h2{
-    font-size: 1.6rem;
-    margin-top: 3rem;
-    margin-bottom: 0px;
+  font-weight: bold;
+  font-family: $base-font;
+  font-size: 1.3rem;
+  margin-top: 3rem;
+    // font-size: 1.6rem;
+    // margin-bottom: 0px;
 }
 
 h3{
     color: $color-secondary-dark;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-style: italic;
-}
-h4{
     font-weight: bold;
-    font-family: $base-font;
-    font-size: 1.15rem;
+    margin-top: 1rem;
 }
 
 p{
