@@ -13,6 +13,7 @@ Project information:
 * Funding: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/) (AFOSR)
 * Program manager: Dr. Tristan Nguyen (AFOSR)
 * Principal investigator: prof. dr. [Andrej Bauer](http://www.andrej.com/)
+* Administrative contact: mag. [Barbara Dorić](https://www.fmf.uni-lj.si/sl/imenik/1155/doric-barbara/)
 * Project number: FA9550-21-1-0024
 * Duration: 5 years (november 2020 -- october 2025)
 * Host institution: [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/si/) – University of Ljubljana
