@@ -13,7 +13,7 @@ Andrej Bauer is a professor of computational mathematics at the Faculty of Mathe
 
 ## Matija Pretnar (researcher)
 
-Matija Pretnar is an assistant professor of computational mathematics at the Faculty of Mathematics and Physics, University of Ljubljana. His research focuses on formalization, implementation, and semantics of programming languages. He is a world-expert on programming with computational effects, best known as the inventor (with [Gordon Plotkin](https://www.research.ed.ac.uk/en/persons/gordon-plotkin) of algebraic effect handlers.
+Matija Pretnar is an assistant professor of computational mathematics at the Faculty of Mathematics and Physics, University of Ljubljana. His research focuses on formalization, implementation, and semantics of programming languages. He is an expert on programming with computational effects, best known as the inventor (with [Gordon Plotkin](https://www.research.ed.ac.uk/en/persons/gordon-plotkin)) of algebraic effect handlers.
 
 * <i class="fas fa-home"></i> <a href="https://matija.pretnar.info">matija.pretnar.info</a>
 {: .icon-links}
