@@ -12,6 +12,9 @@ layout: page
 
 ## Past
 
+17–22 October 2021 – Georgios Karachalias, Filip Koprivec, Matija Pretnar, Tom Schrijvers, “Efficient Compilation of Algebraic Effect Handlers”, contributed talk, [ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org) (SPLASH 2021)
+: &nbsp;
+
 13 October 2021 – [Andrej Bauer receives 2022 Conant Prize](https://www.ams.org/news?news_id=6827)
 : Andrej Bauer has received the 2022 AMS Levi L. Conant Prize for the article “[Five stages of accepting constructive mathematics](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/)”, Bulletin of the AMS, 54 (2017), 481-498. The Levi L. Conant Prize recognizes the best expository paper published in either the Notices of the AMS or the Bulletin of the AMS in the preceding five years.
 

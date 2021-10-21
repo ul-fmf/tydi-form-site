@@ -49,7 +49,7 @@ A formalization of general type theories and fundamental meta-theorems about the
 
 ### Eff
 
-Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar langauges and incorporation of algebraifc effects and handlers into other languages and libraries. It was originally created by Andrej Bauer and Matija Pretnar.
+Eff is the first programming language with first-class algebraic effect and handlers, created by Andrej Bauer and Matija Pretnar. It has inspired the development of similar languages and incorporation of algebraic effects and handlers into other languages and libraries. It was originally created by Andrej Bauer and Matija Pretnar.
 
 * <i class="fas fa-home"></i> [`www.eff-lang.org`](https://www.eff-lang.org)<br>
 * <i class="fab fa-github"></i> [`github.com/matijapretnar/eff`](https://github.com/matijapretnar/eff)<br>
