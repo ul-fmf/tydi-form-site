@@ -34,7 +34,7 @@ layout: page
 : [abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90)
 
 20–26 June 2021 – ECM minisymposium [Mathematics in the Digital Age of Science (MS - ID 50)](https://www.8ecm.si/minisymposia)
-: Katja Berčič was one of the organisers of the minisymposium dedicated to digital representation of, improving access to and preservation of mathematical knowledge, as well as other ways of using the digital environment to benefit mathematics.
+: Katja Berčič was one of the organisers of the minisymposium dedicated to digital representation of, improving access to and preservation of mathematical knowledge, as well as other ways of using the digital environment to benefit mathematics. She also gave a talk, “[Infrastructure for mathematical data](https://8ecm.si/system/admin/abstracts/pdfs/000/001/020/original/katja-bercic.pdf?1619882418)”
 
 14–18 June 2021 – Andrej Bauer and Philipp G. Haselwarter, “[Type theories without contexts](https://types21.liacs.nl/download/type-theories-without-contexts/)”, contributed talk, [27th International Conference on Types for Proofs and Programs](https://types21.liacs.nl) (TYPES 2021)
 : &nbsp;
