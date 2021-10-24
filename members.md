@@ -28,7 +28,7 @@ Danel Ahman is a postdoctoral researcher and a teaching assistant at the Faculty
 
 ## Katja Berčič (postdoctoral researcher)
 
-Katja Berčič is a postdoctoral researcher and a teaching assistant at the Faculty of Mathematics and Physics, University of Ljubljana. While working on her PhD in mathematics, she became interested in improving methods for working with mathematical data. She continued her work on the topic at the National Autonomous University of Mexico, and at the Research Group of the Professorship for Knowledge Representation and Processing at FAU Erlangen-Nürnberg (KWARC). Her main research interests include knowledge representation and management, particularly for mathematics.
+Katja Berčič is a postdoctoral researcher and a teaching assistant at the Faculty of Mathematics and Physics, University of Ljubljana. She is interested in knowledge representation and management, particularly for mathematics. She is collaborating with KWARC on MathDataHub  and building a bridge between a database of graphs and the Lean proof assistant together with Andrej Bauer and Jure Taslak.
 
 * <i class="fas fa-home"></i> <a href="http://katja.not.si">katja.not.si</a>
 {: .icon-links}
