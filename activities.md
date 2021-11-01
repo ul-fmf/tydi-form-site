@@ -46,9 +46,18 @@ title: Activities
 14–18 June 2021 – “[Equality checking for dependent type theories](https://types21.liacs.nl/download/equality-checking-for-dependent-type-theories/)” (TYPES 2021), contributed talk
 : Andrej Bauer and Anja Petković, “Equality checking for dependent type theories”, [27th International Conference on Types for Proofs and Programs](https://types21.liacs.nl)
 
+20 May 2021 – “[Contextual Categories](https://www.fmf.uni-lj.si/en/news/event/214/contextual-categories/)“, online seminar
+: Egbert Rijke and John Cartmell organized an online seminar on contextual categories. It was attended by several dozen researchers from the international community.
+
 12–16 April 2021 – [Spring School on Homotopy Type Theory](https://epit2020cnrs.inria.fr) (EPIT)
-: Andrej Bauer and Egbert Rijke were invited lecturers at the summer school on Homotopy type theory, organized by Ecole de Printemps d'Informatique Théorique, France.
+: Andrej Bauer and Egbert Rijke were invited lecturers at the Spring school on Homotopy type theory, organized by Ecole de Printemps d'Informatique Théorique, France.
+
+8 April 2021 – “[A higher encode decode method](https://youtu.be/KvHGds-AL8M)” (HoTTEST), invited talk
+: Egbert Rijke, “A higher encode decode method”, [Homotopy Type Theory Electronic Seminar Talks](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest.html), [slides](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Rijke-2021-04-08-HoTTEST.pdf).
 
 25–28 January 2021 – [Computer Science Logic 2021](https://csl2021.fmf.uni-lj.si), conference organization
 : Danel Ahman, Andrej Bauer, Katja Berčič, and Anja Petković Komel were members of the organizing team of CSL 2021 on-line conference.
 {: .activities-list}
+
+17–22 January 2021 – “[Asynchronous Effects](https://youtu.be/BPNxvRCnOBA)” (POPL 2021), contributed talk
+: Danel Ahman, Matija Pretnar, “Asynchronous Effects”, [48th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl21.sigplan.org), [paper](https://doi.org/10.1145/3434305).

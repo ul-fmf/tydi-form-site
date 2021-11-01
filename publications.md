@@ -3,11 +3,11 @@ layout: page
 title: Publications
 ---
 
-# Publications
+# Publications and preprints
 
 ## 2021
 
-* Danel Ahman, Matija Pretnar: “[Asynchronous effects](https://doi.org/10.1145/3434305)”. Proc. ACM Program. Lang. 5(POPL): 1-28 (2021)
+* J. D. Christensen, Egbert Rijke: “[Characterizations of modalities and lex modalities](https://doi.org/10.1016/j.jpaa.2021.106848)”. Journal of Pure and Applied Algebra, 226(3), online pre-publication.
 
 * Andrej Bauer, Anja Petković: “[An extensible equality checking algorithm for dependent type theories](https://arxiv.org/abs/2103.07397)”. CoRR abs/2103.07397 (2021), preprint.
 
@@ -15,7 +15,11 @@ title: Publications
 
 * Georgios Karachalias, Filip Koprivec, Matija Pretnar, Tom Schrijvers: “[Efficient Compilation of Algebraic Effect Handlers](https://doi.org/10.1145/3485479)”. Proc. ACM Program. Lang. 5(OOPSLA): 1-28 (2021)
 
+* Danel Ahman, Matija Pretnar: “[Asynchronous effects](https://doi.org/10.1145/3434305)”. Proc. ACM Program. Lang. 5(POPL): 1-28 (2021). Funded by AFOSR project FA9550-17-1-0326.
+
 ## 2020
+
+Publications in 2020 were funded by AFOSR project FA9550-17-1-0326.
 
 * Danel Ahman, Andrej Bauer: “[Runners in Action](https://doi.org/10.1007/978-3-030-44914-8_2)”. European Symposium on Programming
 (ESOP 2020). Funded by AFOSR project FA9550-17-1-0326.
