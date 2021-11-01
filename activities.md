@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Activities
 ---
 
 # Project activities and events
