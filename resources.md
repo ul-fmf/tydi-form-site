@@ -57,7 +57,6 @@ Eff is the first programming language with first-class algebraic effect and hand
 * <i class="fas fa-sm fa-scroll"></i> “[Programming with algebraic effects and handlers](https://doi.org/10.1016/j.jlamp.2014.02.001)”
 {: .icon-links}
 
-
 ### Æff
 
 Æff is an experimental programming language for programming with asynchronous algebraic effects. It was created by Danel Ahman and Matija Pretnar.
@@ -81,6 +80,12 @@ Millet is an experimental pure ML-like language with simple and modular codebase
 
 * <i class="fab fa-github"></i> [`github.com/matijapretnar/millet`](https://github.com/matijapretnar/millet)
 {: .icon.list }
+
+### Programming languages zoo
+
+The Programming Languages Zoo is a collection of miniature programming languages which demonstrates various concepts and techniques used in programming language design and implementation. It is a good starting point for those who would like to implement their own programming language, or just learn how it is done.
+
+* <i class="fas fa-home"></i> [`plzoo.andrej.com`](http://plzoo.andrej.com)
 
 
 
@@ -108,3 +113,19 @@ A list of databases of mathematical structures, curated by Katja Berčič.
 
 * <i class="fas fa-home"></i> [`mathdb.mathhub.info`](https://mathdb.mathhub.info)
 {: .icon-links}
+
+## Miscellaneous resources
+
+### Marshall
+
+Marshall is a programming language for exact real arithmetic based on ideas from [Abstract Stone Duality](http://www.paultaylor.eu/ASD/). It was developed by Andrej Bauer and [Paul Taylor](http://paultaylor.eu).
+
+* <i class="fab fa-github"></i> [github.com/andrejbauer/marshall](https://github.com/andrejbauer/marshall)
+
+### Alg
+
+Alg is a program for enumeration of finite models of single-sorted first-order theories. These include groups, rings, fields, lattices, posets, graphs, and many more. It was developed by Andrej Bauer and [Aleš Bizjak](https://abizjak.github.io).
+
+* <i class="fas fa-home"></i> [`math.andrej.com/alg/`](http://math.andrej.com/alg/)
+* <i class="fab fa-github"></i> [`github.com/andrejbauer/alg`](https://github.com/andrejbauer/alg)
+
