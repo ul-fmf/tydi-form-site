@@ -7,14 +7,22 @@ title: Activities
 
 ## 2022
 
+{: .activities-list}
 11-16 September 2022, International Conference on Functional Programming (ICFP 2022)
 : ICFP 2022 will take place in Ljubljana. Slovenia. It is organized by Andrej Bauer, who is the general chair of the conference.
-{: .activities-list}
 
 21–25 February 2022, “[Logic and higher structures](https://conferences.cirm-math.fr/2689.html)”, invited lecturer and speaker
 : Egbert Rijke will will be an invited lecturer at the “Logic and higher structures” conference, organized by [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr) in Marseille, France. Andrej Bauer will be a speaker at the same meeting.
 
+11 January 2021 – Philipp Haselwarter defended his PhD thesis
+: “An Effective Metatheory for Type Theory”
+
+
 ## 2021
+
+{: .activities-list}
+21 December 2021 – Anja Petković Komel defended her PhD thesis 
+: “[Meta-analysis of type theories with an application to the design of formal proofs](https://anjapetkovic.com/img/doctoralThesis.pdf)”
 
 17–22 October 2021 – “Efficient Compilation of Algebraic Effect Handlers” (SPLASH 2021), contributed talk
 : Georgios Karachalias, Filip Koprivec, Matija Pretnar, Tom Schrijvers, “Efficient Compilation of Algebraic Effect Handlers”, contributed talk, [ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org)
@@ -57,7 +65,6 @@ title: Activities
 
 25–28 January 2021 – [Computer Science Logic 2021](https://csl2021.fmf.uni-lj.si), conference organization
 : Danel Ahman, Andrej Bauer, Katja Berčič, and Anja Petković Komel were members of the organizing team of CSL 2021 on-line conference.
-{: .activities-list}
 
 17–22 January 2021 – “[Asynchronous Effects](https://youtu.be/BPNxvRCnOBA)” (POPL 2021), contributed talk
 : Danel Ahman, Matija Pretnar, “Asynchronous Effects”, [48th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl21.sigplan.org), [paper](https://doi.org/10.1145/3434305).
