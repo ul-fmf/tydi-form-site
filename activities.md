@@ -8,10 +8,19 @@ title: Activities
 ## 2022
 
 {: .activities-list}
-11-16 September 2022, International Conference on Functional Programming (ICFP 2022)
-: ICFP 2022 will take place in Ljubljana. Slovenia. It is organized by Andrej Bauer, who is the general chair of the conference.
+11-16 September 2022 - International Conference on Functional Programming (ICFP 2022)
+: ICFP 2022 took place in Ljubljana, Slovenia. Our group was actively involved in its organization:
+- Danel Ahman (student research competition co-chair)
+- Andrej Bauer (general chair)
+- Katja Berčič (student volunteer co-chair)
+- Matija Pretnar (PC member, OCaml workshop PC chair, ML workshop PC member)
+- Anja Petković Komel (virtualization chair)
+- Jure Taslak (student volunteer)
 
-21–25 February 2022, “[Logic and higher structures](https://conferences.cirm-math.fr/2689.html)”, invited lecturer and speaker
+6 April 2022 – [Matija Pretnar receives ETAPS 2022 Test of time award](https://etaps.org/2022/test-of-time-award)
+: Gordon Plotkin and Matija Pretnar received the ETAPS 2022 Test of time award for the article “[Handlers of Algebraic Effects](https://doi.org/10.1007/978-3-642-00590-9_7)”. The ETAPS Test of Time Award, recognizes outstanding papers published more than 10 years in the past in one of the constituent conferences of ETAPS.
+
+21–25 February 2022 - “[Logic and higher structures](https://conferences.cirm-math.fr/2689.html)”, invited lecturer and speaker
 : Egbert Rijke will will be an invited lecturer at the “Logic and higher structures” conference, organized by [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr) in Marseille, France. Andrej Bauer will be a speaker at the same meeting.
 
 11 January 2021 – Philipp Haselwarter defended his PhD thesis
